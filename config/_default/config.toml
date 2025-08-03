@@ -6,6 +6,8 @@ title = "mondeFetch"
 [params.analytics]
 google = "G-138DMS032G"
 
+enableRobotsTXT = true
+rssLimit = 50
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
