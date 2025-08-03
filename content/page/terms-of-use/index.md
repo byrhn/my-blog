@@ -28,4 +28,4 @@ All content is original or licensed for use. You may not copy or reproduce witho
 We may update these terms at any time without prior notice.
 
 If you have any questions about these terms, contact us at:  
-📧 **info@mondefetch.com**
+📧 **mondefetch@gmail.com**

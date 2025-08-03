@@ -6,7 +6,6 @@ title = "mondeFetch"
 [params.analytics]
 google = "G-138DMS032G"
 
-googlesiteverification="9RRV7Q3P8kEaFqdDAgzuiCmzC2Y9V7ZQh5GBcvgSvJE"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar

@@ -30,4 +30,4 @@ Your privacy is important to us. This policy explains how Mondefetch collects, u
 
 ### 5. Contact
 For privacy concerns, contact:  
-📧 **privacy@mondefetch.com**
+📧 **mondefetch@gmail.com**

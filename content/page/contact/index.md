@@ -13,7 +13,7 @@ menu:
 Got a question, suggestion, or collaboration idea?
 
 Fill out the form below or email us directly at:  
-📧 **info@mondefetch.com**
+📧 **mondefetch@gmail.com**
 
 You can also find us on our social platforms (coming soon).
 
