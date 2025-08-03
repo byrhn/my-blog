@@ -1,0 +1,19 @@
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_VERSION = "0.148.0"
+  HUGO_EXTENDED = "true"
+
+[[redirects]]
+  from = "/identity/*"
+  to = "https://mondefetch.netlify.app/.netlify/identity/:splat"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    X-Frame-Options = "ALLOW-FROM https://mondefetch.netlify.app"
