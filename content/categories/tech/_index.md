@@ -1,5 +1,5 @@
 ---
-title: Tech & Gadgets
+title: Tech
 description: Smartphones, accessories, headphones, and the latest devices — including affiliate opportunities from Amazon, AliExpress, and BestBuy.
 image:
 
