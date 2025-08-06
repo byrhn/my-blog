@@ -1,10 +1,10 @@
 ---
 title: Links
 links:
-  - title: Booking.com
-    description: Book hotels with confidence and flexibility.
-    website: https://trip.tpk.mx/pkmHWLTS
-    image: booking-logo.jpg
+  - title: Amazon.com
+    description: Shop anything from electronics to travel gear – support us by using this link.
+    website: https://amzn.to/45tubXd
+    image: amazon-logo.jpg
 menu:
     main: 
         weight: 9
@@ -15,14 +15,22 @@ comments: false
 ---
 
 
+
+## 🔗 Our Recommended Links
+
 ```yaml
 links:
-  - title: Booking.com
-    description: Book hotels and accommodations with great flexibility and pricing.
+  - title: Trip.com
+    description: Find flexible hotel & flight deals with global coverage.
     website: https://trip.tpk.mx/pkmHWLTS
-    image: https://upload.wikimedia.org/wikipedia/commons/7/7e/Booking.com_logo.svg
+    image: https://upload.wikimedia.org/wikipedia/commons/1/13/Trip.com_logo.svg
 
-  - title: Skyscanner
-    description: Compare flights from hundreds of airlines in seconds.
-    website: https://www.skyscanner.com
-    image: https://upload.wikimedia.org/wikipedia/commons/8/89/Skyscanner_Logo_2020.svg
+  - title: Ekta Travel
+    description: Discover offbeat destinations and custom travel packages.
+    website: https://ektatraveling.tpk.mx/qBtRyuIY
+    image: https://cdn-icons-png.flaticon.com/512/854/854894.png
+
+  - title: Amazon (Official)
+    description: Shop anything from electronics to travel gear – support us by using this link.
+    website: https://amzn.to/45tubXd
+    image: https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg
