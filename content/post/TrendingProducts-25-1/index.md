@@ -5,7 +5,7 @@ slug: datacolor-spyder-print-best-seller
 date: 2025-08-13 00:00:00+0000
 image: spyderprint-best-seller.jpg
 categories:
-    - Best Sellers
+    - Trending Products
 tags:
     - Color Calibration
     - Photography
