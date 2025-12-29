@@ -2,7 +2,7 @@
 title: "PETLIBRO Granary Automatic Cat Feeder – Reliable Dry Food Dispenser"
 description: "Based on real user feedback - Does this popular automatic feeder deliver consistent portions and stay fresh? Quick honest look."
 slug: petlibro-granary-automatic-cat-feeder-2025
-date: 2025-12-30T00:00:00+0000
+date: 2025-12-30
 image: petlibro-granary-cover.jpg
 categories:
   - Pets
@@ -12,7 +12,6 @@ tags:
   - pet-tech
 weight: 1
 ---
-
 
 **Ever woken up at 5 AM by a starving cat?** Automatic feeders fix that — but not all do it well.
 
@@ -35,13 +34,13 @@ Most say: setup <10 min, reliable for months with proper kibble (2–15mm).
 
 ### Quick Comparison
 
-| Feature              | PETLIBRO Granary          | Basic Gravity Feeders | Smart Camera Models |
-|----------------------|---------------------------|-----------------------|---------------------|
-| Battery Backup       | Yes                       | No                    | Yes                 |
-| Precise Portions     | Yes                       | Limited               | Yes                 |
-| Food Freshness       | Excellent (seals)         | Basic                 | Excellent           |
-| Easy Cleaning        | Dishwasher safe bowl      | Simple                | Good                |
-| Price Level          | Mid                       | Very low              | Higher              |
+| Feature              | PETLIBRO Granary         | Basic Gravity Feeders | Smart Camera Models |
+|----------------------|--------------------------|-----------------------|---------------------|
+| Battery Backup       | Yes                      | No                    | Yes                 |
+| Precise Portions     | Yes                      | Limited               | Yes                 |
+| Food Freshness       | Excellent (seals)        | Basic                 | Excellent           |
+| Easy Cleaning        | Dishwasher safe bowl     | Simple                | Good                |
+| Price Level          | Mid                      | Very low              | Higher              |
 
 ### Real Feedback Highlights (2025)
 - “No more overeating — portions perfect every time.”  
