@@ -3,7 +3,7 @@ title: Links
 links:
   - title: Amazon.com
     description: Shop anything from electronics to travel gear – support us by using this link.
-    website: https://amzn.to/45tubXd
+    website: https://amzn.to/4je4ZKA
     image: amazon-logo.jpg
 menu:
     main: 
@@ -32,5 +32,5 @@ links:
 
   - title: Amazon (Official)
     description: Shop anything from electronics to travel gear – support us by using this link.
-    website: https://amzn.to/45tubXd
+    website: https://amzn.to/4je4ZKA
     image: https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg
