@@ -1,9 +1,8 @@
 ---
-title: Trending Products
-description: Discover the latest trending products that are making waves across the market. From tech gadgets to lifestyle must-haves, stay ahead with our curated selections.
+title: Home & Living
+description: Smart home devices, kitchen essentials, furniture, and everyday products to make your space more comfortable and functional.
 image:
-# Badge style
 style:
-  background: "#2a9d8f"
-  color: "#fff"
+    background: "#2a9d8f"
+    color: "#fff"
 ---
