@@ -3,7 +3,7 @@ title: "PETLIBRO Granary Automatic Cat Feeder – Reliable Dry Food Dispenser"
 description: "Based on real user feedback - Does this popular automatic feeder deliver consistent portions and stay fresh? Quick honest look."
 slug: "petlibro-granary-automatic-cat-feeder-2025"
 date: 2025-12-29T12:00:00+03:00
-image: "petlibro-granary-cover.jpg"
+image: petlibro-granary-cover.jpg
 categories:
     - Pets
 tags:
