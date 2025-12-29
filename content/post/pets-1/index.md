@@ -1,16 +1,17 @@
 ---
 title: "PETLIBRO Granary Automatic Cat Feeder – Reliable Dry Food Dispenser"
 description: "Based on real user feedback - Does this popular automatic feeder deliver consistent portions and stay fresh? Quick honest look."
-slug: petlibro-granary-automatic-cat-feeder-2025
-date: 2025-12-30 00:00:00+0000
-image: petlibro-granary-cover.jpg
+slug: "petlibro-granary-automatic-cat-feeder-2025"
+date: 2025-12-29T12:00:00+03:00
+image: "petlibro-granary-cover.jpg"
 categories:
-  - Pets
+    - Pets
 tags:
-  - cat-feeder
-  - automatic-feeder
-  - pet-tech
+    - cat-feeder
+    - automatic-feeder
+    - pet-tech
 weight: 1
+draft: false
 ---
 
 **Ever woken up at 5 AM by a starving cat?** Automatic feeders fix that — but not all do it well.
