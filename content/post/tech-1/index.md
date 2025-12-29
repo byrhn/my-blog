@@ -19,21 +19,21 @@ Student life is challenging — managing lectures, staying focused, and keeping 
 
 ### 🎧 1. Wireless Earbuds  
 Enjoy immersive sound and noise cancellation during commutes or study sessions. These Bluetooth 5.3 earbuds are both comfortable and long-lasting.  
-👉 [Check it out on Amazon](https://amzn.to/4m5gCnS)
-👉 [Check it out on Amazon](https://amzn.to/47bS9IP)
+👉 [Check it out on Amazon](https://amzn.to/49ctpzE)
+
 
 
 ---
 
 ### 💻 2. Foldable Laptop Stand  
 Say goodbye to neck pain! This adjustable, lightweight laptop stand improves posture and ventilation.  
-👉 [View the stand here](https://amzn.to/4m1nSRR)
+👉 [View the stand here](https://amzn.to/499YTq4)
 
 ---
 
 ### ✍️ 3. Smart Pen Scanner  
 Scan handwritten notes or printed pages directly to your device. Perfect for quick digitization and research.  
-👉 [Explore the pen scanner](https://amzn.to/47fQ9zk)
+👉 [Explore the pen scanner](https://amzn.to/49gpUbw)
 
 
 
@@ -41,14 +41,14 @@ Scan handwritten notes or printed pages directly to your device. Perfect for qui
 
 ### 🔋 4. Rechargeable Hand Warmers (2-Pack)  
 Perfect for chilly study nights or cold commutes. These USB rechargeable hand warmers are compact, stylish, and long-lasting.  
-👉 [Amazon – Option 1](https://amzn.to/4oh7eiF)
+👉 [Amazon – Option 1](https://amzn.to/3LcAuIy)
 
 
 ---
 
 ### 💡 5. LED Study Lamp with USB Port  
 Dual function: bright light for studying + USB port to charge your phone. Foldable, minimal, and smart.  
-👉 [Lamp Alternative](https://amzn.to/45j8jxI)
+👉 [Lamp Alternative](https://amzn.to/45sT71C)
 
 ---
 

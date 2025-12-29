@@ -48,7 +48,7 @@ Famous for its striking white cliffs and turquoise waters, Kleftiko Beach is onl
 Visiting Europe’s hidden beaches lets you enjoy nature away from crowds, capture stunning photos, and fully relax. For those seeking adventure and discovery, finding your own secret beach will create unforgettable vacation memories.
 
 ## Travel Tip
-Plan your trip by booking trusted tours, snorkeling gear, or beach essentials through our partners. For a comfortable and memorable experience, check out [Amazon travel gear](https://amzn.to/46g7jvO) to equip yourself for hidden beach adventures.
+Plan your trip by booking trusted tours, snorkeling gear, or beach essentials through our partners. For a comfortable and memorable experience, check out [Amazon travel gear](https://amzn.to/4jeZknE) to equip yourself for hidden beach adventures.
 
 ## Travel Tip
 Planning your trip, accommodation is one of the most important steps. For charming boutique hotels, guesthouses, or home rental options near these hidden beaches, you can utilize our partners. To find comfortable and budget-friendly stays, book your accommodation through [Booking.com](https://booking.tpk.mx/J4JxTDNK) or [Agoda](https://agoda.tpk.mx/InXeLnTh).
