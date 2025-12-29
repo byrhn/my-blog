@@ -2,7 +2,7 @@
 title: "Anker Soundcore Life Q30 Review: Do You Really Need to Spend More?"
 description: "Active Noise Cancellation doesn't have to cost a fortune. We tested if this budget king can actually silence the world."
 slug: anker-soundcore-life-q30-review-2025
-date: 2025-12-30T10:00:00+03:00
+date: 2025-12-29T12:00:00+03:00
 image: anker-q30-cover.jpg
 categories:
     - Tech
