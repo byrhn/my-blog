@@ -2,7 +2,7 @@
 title: "Matein Travel Backpack Review: How to Avoid Airline Baggage Fees"
 description: "We packed it full to test if this $30 bag really fits under the seat of Spirit, Ryanair, and EasyJet. Spoiler: It does."
 slug: matein-travel-backpack-review
-date: 2025-12-30T13:00:00+03:00
+date: 2025-12-30T13:00:00+00:00
 image: matein-backpack-cover.jpg
 categories:
     - Travel
