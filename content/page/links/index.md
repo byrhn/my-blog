@@ -15,14 +15,19 @@ links:
     image: "amazon-logo.jpg"
 
   - title: "Trip.com"
-    description: "Find flexible hotel & flight deals with global coverage."
+    description: "Best for booking flights and hotels with flexible options (Global)."
     website: "https://trip.tpk.mx/pkmHWLTS"
     image: "trip-logo.png"
 
-  - title: "Ekta Travel"
-    description: "Discover offbeat destinations and custom travel packages."
+  - title: "EKTA Travel Insurance"
+    description: "Get insured with competitive prices and high-level service."
     website: "https://ektatraveling.tpk.mx/qBtRyuIY"
     image: "ekta-logo.png"
+
+  - title: "Compensair"
+    description: "Get up to €600 compensation for flight delays or cancellations."
+    website: "https://compensair.tpk.mx/KRUpI87k"
+    image: "compensair.png"
 
 comments: false
 ---

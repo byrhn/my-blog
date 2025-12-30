@@ -3,19 +3,16 @@ baseurl = "https://www.mondefetch.com"
 languageCode = "en-us"
 title = "mondeFetch"
 
-[params.analytics]
-google = "G-X3JTK559C0"
+# --- DÜZELTME BURADA ---
+# Analytics kodunu buraya, en tepeye 'googleAnalytics' olarak ekliyoruz.
+googleAnalytics = "G-FP1LR9Q27W" 
 
+# [params.analytics] <- BU BÖLÜMÜ SİLİN, ARTIK GEREKSİZ.
+# google = "G-FP1LR9Q27W" <- BU SATIRI DA SİLİN.
 
 # Theme i18n support
-# Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
 defaultContentLanguage = "en"
-
-# Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
-# This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage = false
-
-# Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
 
 [pagination]
