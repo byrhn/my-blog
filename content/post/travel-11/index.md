@@ -22,9 +22,9 @@ draft: false
 ## The 30-Second Verdict (TL;DR)
 **Should you spend $700-$900 on a travel camera or just use your phone?**
 
-* **Best Autofocus (Wildlife/Action):** **[https://amzn.to/4bQxyM7]** → 425 phase-detect points, 0.02sec focus lock, never misses fast subjects.
-* **Best Image Quality (Colors/Film Look):** **[https://amzn.to/47QlnMQ]** → 26MP X-Trans sensor, legendary film simulations, retro design.
-* **Best Budget Value (Beginners):** **[https://amzn.to/4lEXSfA]** → $680 entry price, flip screen, beginner-friendly interface.
+* **Best Autofocus (Wildlife/Action):** **[Sony A6400](https://amzn.to/4bQxyM7)** → 425 phase-detect points, 0.02sec focus lock, never misses fast subjects.
+* **Best Image Quality (Colors/Film Look):** **[Fuji X-T30 II](https://amzn.to/47QlnMQ)** → 26MP X-Trans sensor, legendary film simulations, retro design.
+* **Best Budget Value (Beginners):** **[Canon R50](https://amzn.to/4lEXSfA)** → $680 entry price, flip screen, beginner-friendly interface.
 
 ---
 
@@ -85,7 +85,7 @@ After analyzing expert reviews from DPReview, TechRadar, PhotographyBlog, Fstopp
 * ❌ **Battery life:** DPReview users report "battery woes."
 * ❌ **No IBIS:** Shakier handheld shots compared to competitors.
 
-👉 [https://amzn.to/4bQxyM7]
+👉 **[Check Sony A6400 Price on Amazon](https://amzn.to/4bQxyM7)**
 
 ---
 
@@ -108,7 +108,7 @@ After analyzing expert reviews from DPReview, TechRadar, PhotographyBlog, Fstopp
 * ❌ **Button placement:** Tom's Guide warns the Q button gets knocked constantly.
 * ❌ **No weather sealing:** Camera Decision notes it lacks environmental seals.
 
-👉 [https://amzn.to/47QlnMQ]
+👉 **[Check Fuji X-T30 II Price on Amazon](https://amzn.to/47QlnMQ)**
 
 ---
 
@@ -131,7 +131,7 @@ After analyzing expert reviews from DPReview, TechRadar, PhotographyBlog, Fstopp
 * ❌ **Limited lenses:** DPReview warns there aren't many RF-S lenses yet.
 * ❌ **Battery life:** Users report the red icon flashes unexpectedly soon.
 
-👉 [https://amzn.to/4lEXSfA]
+👉 **[Check Canon R50 Price on Amazon](https://amzn.to/4lEXSfA)**
 
 ---
 
@@ -162,7 +162,7 @@ You're new to photography, on a strict budget, and want the lightest option (328
 ### The Bottom Line
 A $3,000 camera left in your hotel room takes worse photos than a $680 camera in your hand. Pick one. Learn it. Use it.
 
-👉 [https://amzn.to/474ONXw]
+👉 **[See Best-Selling Travel Cameras on Amazon](https://amzn.to/474ONXw)**
 
 ---
-*For more honest travel gear comparisons based on real research, visit ChoiceCrush.com.*
+*For more honest travel gear comparisons based on real research, visit [ChoiceCrush.com](https://choicecrush.com).*
